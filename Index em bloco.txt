@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f7f3ef">
   <meta name="description" content="Conheça Damaris Vieira, agende seu horário e descubra nossos procedimentos.">
-  <title>Damaris Vieira | Cuidado que floresce</title>
+  <Damarisvieira>Damaris Vieira | Cuidado que floresce</Esteticadamarisvieira>
   <style>
     :root {
       font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
